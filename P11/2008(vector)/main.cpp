@@ -68,6 +68,7 @@ void deleteElement(SequentialList *list, int index)
     {
         list->elements[i] = list->elements[i + 1];
     }
+    list->size--;
 }
 
 int findElement(SequentialList *list, eleType element)
