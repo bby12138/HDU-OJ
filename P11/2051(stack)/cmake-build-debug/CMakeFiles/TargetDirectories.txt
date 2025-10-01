@@ -1,0 +1,3 @@
+D:/Projects/CProjects/HDU OJ/P11/2051(stack)/cmake-build-debug/CMakeFiles/2051_stack_.dir
+D:/Projects/CProjects/HDU OJ/P11/2051(stack)/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/CProjects/HDU OJ/P11/2051(stack)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
