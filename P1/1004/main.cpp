@@ -6,13 +6,13 @@ HDU OJ 1004
 #include <string>
 using namespace std;
 
-bool max(int &a, int &b)
+bool isMax(int &a, int &b)
 {
-    if (a > b) return false;
+    if (a > b) return true;
     int temp = a;
     a = b;
     b = temp;
-    return true;
+    return false;
 }
 
 int main()
@@ -38,7 +38,7 @@ int main()
                 if (v[i] == v[j])
                     ++count;
             }
-            if (max(ret, count))
+            if (!isMax(ret, count))
                 ans = v[i];
         }
         cout << ans << endl;
