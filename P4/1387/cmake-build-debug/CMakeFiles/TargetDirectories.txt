@@ -1,0 +1,3 @@
+D:/Projects/CProjects/HDU OJ/P4/1387/cmake-build-debug/CMakeFiles/1387.dir
+D:/Projects/CProjects/HDU OJ/P4/1387/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/CProjects/HDU OJ/P4/1387/cmake-build-debug/CMakeFiles/rebuild_cache.dir
